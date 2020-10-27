@@ -1,5 +1,7 @@
 ### Hi, I'm Pierre-Yves 👋
 
+[![@_Pyrrah_ on Twitter](http://img.shields.io/badge/twitter-%40__Pyrrah__-red.svg?style=flat)](https://twitter.com/_Pyrrah_)
+
 <!--
 **Pyrrah/Pyrrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
