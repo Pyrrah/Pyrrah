@@ -2,6 +2,10 @@
 
 [![@_Pyrrah_ on Twitter](http://img.shields.io/badge/twitter-%40__Pyrrah__-brightgreen.svg?style=flat)](https://twitter.com/intent/follow?screen_name=_Pyrrah_)
 
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif">
+</p>
+
 <!--
 **Pyrrah/Pyrrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
