@@ -4,7 +4,7 @@
 [![Pyrrah on Symfony](https://shields.io/badge/connect-Pyrrah-blue?logo=symfony&style=plastic)](https://connect.symfony.com/profile/pyrrah)
 
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif">
+  <img width="400" height="250" src="https://media.giphy.com/media/wuOtkQMVrqdRS/giphy.gif">
 </p>
 
 <!--
