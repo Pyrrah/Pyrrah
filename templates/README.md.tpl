@@ -18,11 +18,12 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 📜 My last blog posts
+#### 📝 My latest blog posts
 {{range rss "https://www.pyrrah.info/feed" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+<!--
 #### 📓 Gists I wrote
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
@@ -32,9 +33,10 @@
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+-->
 
 <p align="center">
-  <img width="200" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
+  <img width="100" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 </p>
 
 <!--
