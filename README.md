@@ -23,14 +23,6 @@
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) ([v1.0.1](https://github.com/Pyrrah/OpenWeatherMapBundle/releases/tag/v1.0.1), 4 months ago) - OpenWeatherMap Bundle for use in Symfony
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.1.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.1.1), 4 months ago) - Pyrrah Gravatar Bundle for Symfony 5
 
-#### 📝 My latest blog posts
-
-- [Fermer un compte sur un réseau social](https://www.pyrrah.info/2014/04/20/fermer-un-compte-sur-un-reseau-social/) (7 years ago)
-- [Test du Samsung Galaxy S5](https://www.pyrrah.info/2014/04/01/test-du-samsung-galaxy-s5/) (7 years ago)
-- [Mon expérience Google Glass](https://www.pyrrah.info/2014/03/31/experience-google-glass/) (7 years ago)
-- [Les 9 hackers les plus connus](https://www.pyrrah.info/2014/01/31/les-9-hackers-les-plus-connus/) (7 years ago)
-- [Baboom, le streaming musical by Kim Dotcom](https://www.pyrrah.info/2014/01/22/baboom-le-streaming-musical-by-kim-dotcom/) (7 years ago)
-
 <p align="center">
   <img width="100" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 </p>
