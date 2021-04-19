@@ -23,6 +23,9 @@
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+<p align="center">
+  <img width="100" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
+</p>
 <!--
 #### 📓 Gists I wrote
 {{range gists 5}}
@@ -34,11 +37,6 @@
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 -->
-
-<p align="center">
-  <img width="100" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
-</p>
-
 <!--
 **Pyrrah/Pyrrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
