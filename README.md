@@ -31,8 +31,6 @@
 - [Les 9 hackers les plus connus](https://www.pyrrah.info/2014/01/31/les-9-hackers-les-plus-connus/) (7 years ago)
 - [Baboom, le streaming musical by Kim Dotcom](https://www.pyrrah.info/2014/01/22/baboom-le-streaming-musical-by-kim-dotcom/) (7 years ago)
 
-
-
 <p align="center">
   <img width="100" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 </p>
