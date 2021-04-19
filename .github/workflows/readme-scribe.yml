@@ -23,7 +23,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README 🖐
+          commit_message: Update generated README 👍
           branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
