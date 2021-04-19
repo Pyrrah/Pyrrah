@@ -5,6 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) -  (2 months ago)
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h. (4 months ago)
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 (4 months ago)
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - OpenWeatherMap Bundle for use in Symfony (4 months ago)
@@ -13,6 +14,7 @@
 
 #### 🌱 My latest projects
 
+- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - 
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h.
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - OpenWeatherMap Bundle for use in Symfony
