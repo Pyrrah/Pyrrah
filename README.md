@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA2), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA2), 4 days ago) - The Symfony PHP framework
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) ([v1.0.1](https://github.com/Pyrrah/OpenWeatherMapBundle/releases/tag/v1.0.1), 5 months ago) - OpenWeatherMap Bundle for use in Symfony
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.1.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.1.1), 5 months ago) - Pyrrah Gravatar Bundle for Symfony 5
 
