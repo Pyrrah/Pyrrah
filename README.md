@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) -  (3 months ago)
+- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (3 months ago)
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h. (5 months ago)
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 (5 months ago)
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - OpenWeatherMap Bundle for use in Symfony (5 months ago)
@@ -14,7 +14,7 @@
 
 #### 🌱 My latest projects
 
-- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - 
+- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h.
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - OpenWeatherMap Bundle for use in Symfony
