@@ -37,8 +37,6 @@
 - [API data in google sheets](https://gist.github.com/16f24e03ae17772bdc3f92fe251dadab) (today)
 - [Complete list of github markdown emoji markup](https://gist.github.com/901f00824ded4cd8a3948f931965e356) (11 months ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
-
 
 <p align="center">
   <img width="100" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
