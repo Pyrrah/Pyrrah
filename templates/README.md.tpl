@@ -21,7 +21,7 @@
 <p align="center">
   <img width="100" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 </p>
-<!--
+
 #### 📝 My latest blog posts
 {{range rss "https://www.pyrrah.info/feed" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
@@ -36,7 +36,7 @@
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
--->
+
 <!--
 **Pyrrah/Pyrrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
