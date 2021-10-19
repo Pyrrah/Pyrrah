@@ -24,10 +24,6 @@
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) ([v1.0.1](https://github.com/Pyrrah/OpenWeatherMapBundle/releases/tag/v1.0.1), 10 months ago) - OpenWeatherMap Bundle for use in Symfony
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.1.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.1.1), 10 months ago) - Pyrrah Gravatar Bundle for Symfony 5
 
-<p align="center">
-  <img width="100" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
-</p>
-
 #### 📝 My latest blog posts
 
 - [Fermer un compte sur un réseau social](https://www.pyrrah.info/2014/04/20/fermer-un-compte-sur-un-reseau-social/) (7 years ago)
@@ -43,5 +39,9 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+
+<p align="center">
+  <img width="100" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
+</p>
 
 
