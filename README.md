@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the CMP TagCommander (1 week ago)
+- [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the CMP TagCommander (today)
 - [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (2 weeks ago)
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h. (10 months ago)
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 (10 months ago)
