@@ -5,11 +5,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the CMP TagCommander (4 days ago)
-- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (2 weeks ago)
+- [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the CMP TagCommander (5 days ago)
+- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (3 weeks ago)
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h. (10 months ago)
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 (10 months ago)
-- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - OpenWeatherMap Bundle for use in Symfony (10 months ago)
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 (11 months ago)
+- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - OpenWeatherMap Bundle for use in Symfony (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) ([v1.0.1](https://github.com/Pyrrah/OpenWeatherMapBundle/releases/tag/v1.0.1), 10 months ago) - OpenWeatherMap Bundle for use in Symfony
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.1.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.1.1), 10 months ago) - Pyrrah Gravatar Bundle for Symfony 5
+- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) ([v1.0.1](https://github.com/Pyrrah/OpenWeatherMapBundle/releases/tag/v1.0.1), 11 months ago) - OpenWeatherMap Bundle for use in Symfony
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.1.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.1.1), 11 months ago) - Pyrrah Gravatar Bundle for Symfony 5
 
 
 #### 📓 Gists I wrote
