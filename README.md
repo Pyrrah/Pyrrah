@@ -6,7 +6,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the CMP TagCommander (1 month ago)
-- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (1 month ago)
+- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (2 months ago)
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h. (11 months ago)
 
 #### 🌱 My latest projects
