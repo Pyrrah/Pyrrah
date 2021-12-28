@@ -5,6 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 (today)
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the CMP TagCommander (2 months ago)
 - [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (2 months ago)
 
@@ -18,6 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.1.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.1.1), 1 year ago) - Pyrrah Gravatar Bundle for Symfony 5
 
 
 #### 📓 Gists I wrote
