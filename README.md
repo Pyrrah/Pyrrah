@@ -24,7 +24,7 @@
 
 #### 📓 Gists I wrote
 
-- [API data in google sheets](https://gist.github.com/16f24e03ae17772bdc3f92fe251dadab) (5 months ago)
+- [API data in google sheets](https://gist.github.com/16f24e03ae17772bdc3f92fe251dadab) (6 months ago)
 - [Complete list of github markdown emoji markup](https://gist.github.com/901f00824ded4cd8a3948f931965e356) (1 year ago)
 
 
