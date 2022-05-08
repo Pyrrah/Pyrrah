@@ -7,7 +7,7 @@
 
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪 (1 month ago)
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 &amp; 6 (4 months ago)
-- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (6 months ago)
+- [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (7 months ago)
 
 #### 🌱 My latest projects
 
