@@ -5,6 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6  (today)
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪 (2 months ago)
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 &amp; 6 (8 months ago)
 - [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (11 months ago)
@@ -15,10 +16,11 @@
 - [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h.
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 &amp; 6
-- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - OpenWeatherMap Bundle for use in Symfony
+- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) ([v1.1.0](https://github.com/Pyrrah/OpenWeatherMapBundle/releases/tag/v1.1.0), today) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6 
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.2.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.2.0), 8 months ago) - Pyrrah Gravatar Bundle for Symfony 5 &amp; 6
 
 
