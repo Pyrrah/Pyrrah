@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6  (1 day ago)
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 &amp; 6 (1 day ago)
+- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6  (2 days ago)
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 &amp; 6 (2 days ago)
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪 (2 months ago)
 - [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (11 months ago)
 
@@ -20,13 +20,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.2.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.2.1), 1 day ago) - Pyrrah Gravatar Bundle for Symfony 5 &amp; 6
-- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) ([v1.1.0](https://github.com/Pyrrah/OpenWeatherMapBundle/releases/tag/v1.1.0), 1 day ago) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6 
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.2.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.2.1), 2 days ago) - Pyrrah Gravatar Bundle for Symfony 5 &amp; 6
+- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) ([v1.1.0](https://github.com/Pyrrah/OpenWeatherMapBundle/releases/tag/v1.1.0), 2 days ago) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6 
 
 
 #### 📓 Gists I wrote
 
-- [API data in google sheets](https://gist.github.com/16f24e03ae17772bdc3f92fe251dadab) (10 months ago)
+- [API data in google sheets](https://gist.github.com/16f24e03ae17772bdc3f92fe251dadab) (11 months ago)
 - [Complete list of github markdown emoji markup](https://gist.github.com/901f00824ded4cd8a3948f931965e356) (2 years ago)
 
 
