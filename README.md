@@ -20,6 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.3.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.3.0), today) - Pyrrah Gravatar Bundle for Symfony 5 &amp; 6
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) ([v1.1.0](https://github.com/Pyrrah/OpenWeatherMapBundle/releases/tag/v1.1.0), 3 days ago) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6 
 
 
