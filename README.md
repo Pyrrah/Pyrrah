@@ -6,7 +6,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 5 &amp; 6 (3 weeks ago)
-- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6  (4 weeks ago)
+- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6  (1 month ago)
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪 (3 months ago)
 - [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner (1 year ago)
 
