@@ -5,12 +5,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The simple way to use Twitter Emoji (Twemoji) for Symfony 6.x. (today)
+- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - Use Twemoji library with Symfony 6 (today)
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪 (11 months ago)
 
 #### 🌱 My latest projects
 
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The simple way to use Twitter Emoji (Twemoji) for Symfony 6.x.
+- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - Use Twemoji library with Symfony 6
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪
 - [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h.
@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) ([v1.0.1](https://github.com/Pyrrah/Twemoji/releases/tag/v1.0.1), today) - The simple way to use Twitter Emoji (Twemoji) for Symfony 6.x.
+- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) ([v1.0.1](https://github.com/Pyrrah/Twemoji/releases/tag/v1.0.1), today) - Use Twemoji library with Symfony 6
 
 
 #### 📓 Gists I wrote
