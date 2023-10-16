@@ -6,7 +6,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - Use Twemoji library with Symfony 6 (3 weeks ago)
-- [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪 (11 months ago)
+- [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪 (1 year ago)
 
 #### 🌱 My latest projects
 
