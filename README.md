@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - Use Twemoji library with Symfony 6 (4 weeks ago)
+- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - Use Twemoji library with Symfony 6 (1 month ago)
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪 (1 year ago)
 
 #### 🌱 My latest projects
@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) ([v1.0.1](https://github.com/Pyrrah/Twemoji/releases/tag/v1.0.1), 4 weeks ago) - Use Twemoji library with Symfony 6
+- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) ([v1.0.1](https://github.com/Pyrrah/Twemoji/releases/tag/v1.0.1), 1 month ago) - Use Twemoji library with Symfony 6
 
 
 #### 📓 Gists I wrote
