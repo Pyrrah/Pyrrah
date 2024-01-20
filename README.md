@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4 to 7 (today)
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7 (today)
 - [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The better way to use Twemoji with Symfony 6 (based on Unicode version 15.0.2 emoji) (2 months ago)
 
 #### 🌱 My latest projects
@@ -14,11 +14,12 @@
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪
 - [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h.
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4 to 7
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 &amp; 6 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.4.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.4.0), today) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
 - [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) ([v1.1.1](https://github.com/Pyrrah/Twemoji/releases/tag/v1.1.1), 2 months ago) - The better way to use Twemoji with Symfony 6 (based on Unicode version 15.0.2 emoji)
 
 
