@@ -6,11 +6,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7 (4 months ago)
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The better way to use Twemoji with Symfony 6 (based on Unicode version 15.0.2 emoji) (9 months ago)
+- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The better way to use Twemoji with Symfony 6 to 7. Based on Unicode version 15.1.0 emoji. (9 months ago)
 
 #### 🌱 My latest projects
 
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The better way to use Twemoji with Symfony 6 (based on Unicode version 15.0.2 emoji)
+- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The better way to use Twemoji with Symfony 6 to 7. Based on Unicode version 15.1.0 emoji.
 - [Pyrrah/TagCo-tips](https://github.com/Pyrrah/TagCo-tips) - Somes tips for the TMS TagCommander 🍪
 - [Pyrrah/AIO-SplatPost](https://github.com/Pyrrah/AIO-SplatPost) - Generate easily your SplatPost banner
 - [Pyrrah/pyrrah.github.io](https://github.com/Pyrrah/pyrrah.github.io) - ~Pyrr@h.
@@ -20,7 +20,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.4.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.4.0), 7 months ago) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) ([v1.1.1](https://github.com/Pyrrah/Twemoji/releases/tag/v1.1.1), 9 months ago) - The better way to use Twemoji with Symfony 6 (based on Unicode version 15.0.2 emoji)
+- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) ([v1.1.1](https://github.com/Pyrrah/Twemoji/releases/tag/v1.1.1), 9 months ago) - The better way to use Twemoji with Symfony 6 to 7. Based on Unicode version 15.1.0 emoji.
 
 
 #### 📓 Gists I wrote
