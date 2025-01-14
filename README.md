@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.4.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.4.0), 11 months ago) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.4.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.4.0), 1 year ago) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
 
 
 #### 📓 Gists I wrote
