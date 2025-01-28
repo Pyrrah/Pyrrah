@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7 (today)
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.4.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.4.1), today) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.4.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.4.1), 1 day ago) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
 
 
 #### 📓 Gists I wrote
