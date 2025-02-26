@@ -6,7 +6,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 to 7  (4 weeks ago)
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7 (4 weeks ago)
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7 (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -19,12 +19,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.4.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.4.1), 4 weeks ago) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.4.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.4.1), 1 month ago) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
 
 
 #### 📓 Gists I wrote
 
-- [How to get Telegram Bot Chat ID](https://gist.github.com/23066d068f78cad7eadbd87cbd8b9085) (today)
+- [How to get Telegram Bot Chat ID](https://gist.github.com/23066d068f78cad7eadbd87cbd8b9085) (1 day ago)
 - [API data in google sheets](https://gist.github.com/16f24e03ae17772bdc3f92fe251dadab) (3 years ago)
 - [Complete list of github markdown emoji markup](https://gist.github.com/901f00824ded4cd8a3948f931965e356) (4 years ago)
 
