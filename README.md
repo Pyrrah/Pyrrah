@@ -6,7 +6,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 to 7  (3 months ago)
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7 (3 months ago)
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7 (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.4.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.4.1), 3 months ago) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.4.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.4.1), 4 months ago) - Pyrrah Gravatar Bundle for Symfony 4.4 to 7
 
 
 #### 📓 Gists I wrote
