@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.5.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.5.0), today) - Pyrrah Gravatar Bundle for Symfony 6.4 to 7.x
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.5.1](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.5.1), today) - Pyrrah Gravatar Bundle for Symfony 6.4 to 7.x
 
 
 #### 📓 Gists I wrote
