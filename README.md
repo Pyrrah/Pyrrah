@@ -26,7 +26,7 @@
 
 #### 📓 Gists I wrote
 
-- [How to get Telegram Bot Chat ID](https://gist.github.com/23066d068f78cad7eadbd87cbd8b9085) (6 months ago)
+- [How to get Telegram Bot Chat ID](https://gist.github.com/23066d068f78cad7eadbd87cbd8b9085) (7 months ago)
 - [API data in google sheets](https://gist.github.com/16f24e03ae17772bdc3f92fe251dadab) (3 years ago)
 - [Complete list of github markdown emoji markup](https://gist.github.com/901f00824ded4cd8a3948f931965e356) (4 years ago)
 
