@@ -7,7 +7,7 @@
 
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 6.4 to 7.x (2 months ago)
 - [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The better way to use Twemoji with Symfony 6 to 7. Based on latest Unicode version. (2 months ago)
-- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 to 7  (8 months ago)
+- [Pyrrah/OpenWeatherMapBundle](https://github.com/Pyrrah/OpenWeatherMapBundle) - Pyrrah OpenWeatherMap Bundle for Symfony 5 to 7  (9 months ago)
 
 #### 🌱 My latest projects
 
