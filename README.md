@@ -6,7 +6,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x (1 week ago)
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The better way to use Twemoji with Symfony 6 to 7. Based on latest Unicode version. (1 year ago)
 
 #### 🌱 My latest projects
 
