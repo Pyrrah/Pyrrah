@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x (today)
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The better way to use Twemoji with Symfony. Based on latest Unicode version. (today)
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x (1 day ago)
+- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) - The better way to use Twemoji with Symfony. Based on latest Unicode version. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) ([v1.2.0](https://github.com/Pyrrah/Twemoji/releases/tag/v1.2.0), today) - The better way to use Twemoji with Symfony. Based on latest Unicode version.
+- [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) ([v1.2.0](https://github.com/Pyrrah/Twemoji/releases/tag/v1.2.0), 1 day ago) - The better way to use Twemoji with Symfony. Based on latest Unicode version.
 - [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.6.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.6.0), 2 months ago) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x
 
 
