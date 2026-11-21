@@ -20,7 +20,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Pyrrah/Twemoji](https://github.com/Pyrrah/Twemoji) ([v1.2.0](https://github.com/Pyrrah/Twemoji/releases/tag/v1.2.0), 1 month ago) - The better way to use Twemoji with Symfony. Based on latest Unicode version.
-- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.6.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.6.0), 3 months ago) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x
+- [Pyrrah/GravatarBundle](https://github.com/Pyrrah/GravatarBundle) ([v1.6.0](https://github.com/Pyrrah/GravatarBundle/releases/tag/v1.6.0), 4 months ago) - Pyrrah Gravatar Bundle for Symfony 6.4 to 8.x
 
 
 #### 📓 Gists I wrote
